@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Pos Order Line Product Image",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Product image in pos order lines""",
     'description': """This module adds product image in pos order lines, Odoo16, Odoo 16""",
     'author': "Cybrosys Techno Solutions",

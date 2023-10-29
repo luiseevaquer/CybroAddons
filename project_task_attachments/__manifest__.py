@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Project And Task Attachments",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Project',
     'summary': 'Helps to view all documents attached to Projects/Tasks',
     'description': """Project and Task Attachments module allows user to view 

@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': "Dropbox Integration",
-    'version': "16.0.1.0.0'",
+    'version': "17.0.1.0.0",
     'category': "Document Management",
     'summary': """ Dropbox Odoo Integration""",
     'description': """This module was developed to upload to Dropbox as well 

@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Customer Progress Billing",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Accounting',
     'summary': """ Customer Invoice as Progress Billing for Project Odoo """,
     'description': """ Progress Billing for Analytic Account / Project """,

@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Project Dynamic Fields',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Project',
     'summary': "Adding Custom Fields for Project Module",
     'description': """Adding Custom Fields for Project Module,Odoo16.

@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Listview Change Background Color',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Change Background Colors Of Most Priority Records In Tree/List View Very Easily And Quickly""",
     'description': """Change Background Colors Of Most Priority Records In Tree/List View Very Easily And Quickly""",
     'category': 'Tools',

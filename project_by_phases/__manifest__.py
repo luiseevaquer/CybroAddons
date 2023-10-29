@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Project Phases",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Project',
     'summary': """A Module For Managing Different Phases of Project.""",
     'description': 'Using Project By Phases,you can manage different phases '

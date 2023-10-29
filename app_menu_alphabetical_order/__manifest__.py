@@ -20,7 +20,7 @@
 ###############################################################################
 {
     'name': 'App Menu In Alphabetical Order',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Arrange apps in alphabetical order.',
     'description': "When installing this module, apps are arranged in "

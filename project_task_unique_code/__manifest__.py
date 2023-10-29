@@ -21,7 +21,7 @@
 
 {
     'name': 'Project Task Unique Code',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Auto Generated Task Unique Code""",
     'description': """"This module helps you to track each tasks with the
     unique code which is generated automatically.""",

@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Restrict Customers In POS',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'Helps to manage customers in point of sale.',
     'description': """Which will set restriction for customers in

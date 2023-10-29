@@ -22,7 +22,7 @@
 
 {
     'name': 'Fleet Rental Management',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """This module will helps you to give the vehicles for Rent.""",
     'description': "Module Helps You To Manage Rental Contracts, Odoo16, Odoo 16, Fleet, Rental, Rent, Vehicle management",
     'category': "Industries",

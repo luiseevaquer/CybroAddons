@@ -22,7 +22,7 @@
 
 {
     'name': 'Smart Alerts',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Smart Alerts On Any Model Based on Different Conditions',
     'author': 'Cybrosys Techno Solutions',

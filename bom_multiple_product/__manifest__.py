@@ -22,7 +22,7 @@
 
 {
     'name': 'BOM Multiple Product Selection',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'BOM Multiple Product Selection',
     'description': """An option to choose multiple products when creating the BOM.""",
     'category': 'Manufacturing',

@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Generate Product Images Using OpenAI',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'This module helps to generate images for products using DALL-E.',
     'description': 'Odoo Module for Generating Product Images using DALL-E,OpenAI,dalle,chatgpt,odoo chatgpt connector,odoo chatgpt,openai odoo',

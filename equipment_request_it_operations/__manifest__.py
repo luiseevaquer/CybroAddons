@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Equipment Request & IT Operations",
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'category': 'Human Resources',
     'description': "This module allows your employees to send requests to "
                    "the Department Manager of Equipment for"

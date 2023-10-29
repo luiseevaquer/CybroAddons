@@ -23,7 +23,7 @@
 
 {
     'name': "Pos Product Magnify Image",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Magnify product image in PoS""",
     'description': """Magnify Product Image in Point of Sale""",
     'author': "Cybrosys Techno Solutions",

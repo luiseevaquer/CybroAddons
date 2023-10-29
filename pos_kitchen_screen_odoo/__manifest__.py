@@ -39,7 +39,7 @@
                'so that staff can see the information that is most '
                'important to them.',
     'category': 'Point Of Sale',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

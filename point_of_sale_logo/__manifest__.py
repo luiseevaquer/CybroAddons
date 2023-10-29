@@ -22,7 +22,7 @@
 
 {
     'name': 'Point of Sale Logo',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Logo For Every Point of Sale (Screen & Receipt)""",
     'description': """"This module helps you to set a logo for every point of sale. This will help you to
                  identify the point of sale easily. You can also see this logo in pos screen and pos receipt.""",

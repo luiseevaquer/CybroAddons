@@ -22,7 +22,7 @@
 
 {
     'name': 'Schedule Activity to Multiple Users',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """Schedule an activity to multiple users""",
     'description': """At a time we are able to schedule 

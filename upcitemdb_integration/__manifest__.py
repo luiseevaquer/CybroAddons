@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Products From UPCitemdb',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """A module for create new product using UPC.""",
     'description': """This will helps you to create new product 
                    using UPC by scanning the barcode.""",

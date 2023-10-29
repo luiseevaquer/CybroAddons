@@ -22,7 +22,7 @@
 ###############################################################################
 {
     'name': "Odoo 16 Development Tutorials",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """
         This module containing Odoo13, Odoo14, odoo15, odoo16 Tutorials, and 
         also how to configure pycharm in ubuntu""",

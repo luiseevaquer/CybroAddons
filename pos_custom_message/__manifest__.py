@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'POS Custom Message',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'Custom popup messages in pos screen',
     'description': "This Module allows you to create custom messages that "

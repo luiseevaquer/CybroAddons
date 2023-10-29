@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Multiple Reference Per Product",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Multiple Reference Per Product',
     'description': """Add multiple reference code for a product template or product variant. Easily manage between the
                    different codes as default code for the product.""",

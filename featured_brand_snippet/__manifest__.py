@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Featured Brand Snippet',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website,eCommerce',
     'summary': 'Dynamic snippet for selecting brands',
     'description': 'Featured brands are arranged in a carousel and allows to view the products of selected brand',

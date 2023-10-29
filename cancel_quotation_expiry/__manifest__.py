@@ -23,7 +23,7 @@
 
 {
     'name': 'Cancel Expired Quotations',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sale',
     'summary': 'Cancel Expired Quotations',
     "description": "Cancel Expired Quotations",

@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Theme WatchHut',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Theme/eCommerce',
     'summary': 'Theme WatchHut is an attractive and modern eCommerce Website'
                ' theme',

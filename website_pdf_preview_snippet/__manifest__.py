@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Website PDF Preview Snippet',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Snippet for Previewing PDF Files on Website',
     'description': "The Website PDF Preview Snippet is a module that provides "
                    "functionality for uploading and previewing PDF files on a "

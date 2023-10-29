@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Employee Bonus',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources',
     'summary': 'This module will help you in managing the employee bonus.',
     'description': """This module helps to manage the bonus for employees , the 

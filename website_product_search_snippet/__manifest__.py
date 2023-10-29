@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Product Search Snippet',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': """Product Search Snippet for Website.""",
     'description': """This module enables users to search for products

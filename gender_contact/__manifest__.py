@@ -22,7 +22,7 @@
 
 {
     'name': 'Gender In Contacts',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """This module will helps you to give 
                 gender details for your contact.""",
     'description': "Module helps you to manage the gender information "

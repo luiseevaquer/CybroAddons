@@ -21,7 +21,7 @@
 
 {
     'name': 'Transliterate Widget',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'summary': 'Widget for translation',
     'description': 'Widget for translation',
     'category': 'Tools',

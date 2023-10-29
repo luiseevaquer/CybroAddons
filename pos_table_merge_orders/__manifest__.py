@@ -20,7 +20,7 @@
 #############################################################################
 {
     'name': 'POS Table Merge Orders',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': """
                     Multiple table orders can be easily merged into a single 

@@ -22,7 +22,7 @@
 
 {
     'name': "Multiple Branch Setup for POS",
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'summary': """ Multiple Branch Operation Setup for Odoo POS""",
     'description': """ Manages Multiple Branch Operation setup for Odoo Point of 
                     sale.""",

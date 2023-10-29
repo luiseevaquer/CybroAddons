@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name' : 'No Automatic Subscription',
-     'version': '16.0.1.0.0',
+     'version': '17.0.1.0.0',
     'summary': """To stop the automatic subscription.""",
     'description': """To stop the automatic subscription for the customers 
     as the user need.""",

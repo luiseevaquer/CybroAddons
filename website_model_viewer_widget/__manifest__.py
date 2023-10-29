@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Website Model Viewer Widget',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website,eCommerce',
     'summary': """Experience the product like never before with our stunning 3D
         model viewer.""",

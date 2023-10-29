@@ -22,7 +22,7 @@
 
 {
     'name': 'Quality Assurance',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Manage Your Quality Assurance Processes',
     'description': """
     This module provides features to manage basic quality assurance procedures.

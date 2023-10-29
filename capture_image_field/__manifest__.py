@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Capture Image upload",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra tools',
     'summary': 'To capture the image field',
     'description': 'This Module allows to access the webcam to capture the image field',

@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'POS Night Mode Theme',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summery': 'POS night mode theme',
     'description': """This module helps you change the color theme of the pose to dark""",
     'author': 'Cybrosys Techno Solutions',

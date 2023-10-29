@@ -4,7 +4,7 @@
 
 Activity Management
 ======================
-Activity Management v16.0. Manage activity from dashboard.
+Activity Management v17.0. Manage activity from dashboard.
 
 Company
 -------

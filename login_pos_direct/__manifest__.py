@@ -22,7 +22,7 @@
 
 {
     'name': 'POS Direct Login',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'Helps to directly login to POS.',
     'description': 'Log in to configured POS shop to save time without backend.',

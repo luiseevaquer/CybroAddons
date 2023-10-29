@@ -20,7 +20,7 @@
 ###############################################################################
 {
     'name': 'Quick RFQ from Products',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Create quick RFQ from Products list""",
     'description': """"
                     This module helps you to create quick RFQ from Products

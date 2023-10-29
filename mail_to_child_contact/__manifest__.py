@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Automatic Mail to Child Contact',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Discuss',
     'summary': """Send Mail to all Child Contact in Sales and Invoice""",
     'description': """Send Mail to all Child Contact in Sales and Invoice""",

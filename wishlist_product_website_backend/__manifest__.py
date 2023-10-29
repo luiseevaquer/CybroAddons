@@ -22,7 +22,7 @@
 
 {
     'name': "Wishlist Products In Backend",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Record All Wishlist products to Backend""",
     'description': """This module will store all Wishlist product of Customers in Backend""",
     'author': "Cybrosys Techno Solutions ",

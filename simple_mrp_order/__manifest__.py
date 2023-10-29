@@ -21,7 +21,7 @@
 ########################################################################################
 {
     'name': 'Simple Manufacturing Orders',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Create Manufacturing Orders Easily',
     'description': """This module allow you to create manufacturing orders with out 
                     taking the work orders or work centers.""",

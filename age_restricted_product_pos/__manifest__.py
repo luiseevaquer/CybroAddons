@@ -22,7 +22,7 @@
 #############################################################################
 {
     'name': 'Age Restricted Products POS ',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'This Module will help to restrict the age restricted products in pos.',
     'category': 'Point of Sale',
     'author': 'Cybrosys Techno Solutions',

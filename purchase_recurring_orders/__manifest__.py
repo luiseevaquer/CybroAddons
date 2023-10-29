@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Purchase Recurring Orders',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Purchases',
     'summary': 'Helps to create Purchase Recurring orders',
     'description': 'This module Helps to create recurring orders for Purchases based on the information provided.',

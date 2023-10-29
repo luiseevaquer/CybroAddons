@@ -25,7 +25,7 @@
     'description': """In this dashboard user the Detailed information about 
      project, task, employee, hours recorded, total margin and total 
      sale orders.""",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

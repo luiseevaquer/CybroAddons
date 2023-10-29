@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Draggable And Resizable Wizard v16',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Draggable Wizard',
     'description': 'Make Every Backend Wizard In Odoo Resizable And Draggable.',
     'category': 'Extra Tools',

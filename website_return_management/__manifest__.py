@@ -24,7 +24,7 @@
 {
     'name': 'Website Return Order Management',
     'summary': 'Sale Order Return Management from Website',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': """Website Return Order Management, Website Return, Order Return, RMA, Website RMA""",
     'author': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

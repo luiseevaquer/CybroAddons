@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Website Index and Follow',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website/Website',
     'summary': """Website Index and Follow Application for Odoo 16""",
     'description': """The module helps you to specify product-level 

@@ -22,7 +22,7 @@
 
 {
     'name': 'Picking Line Description(Shipment/Delivery)',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'To add product description to Pickings.',
     'category': 'Inventory/Delivery',
     'description': 'To view the Sale/Purchase order line Description to Shipments/Delivery slips.',

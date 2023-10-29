@@ -21,7 +21,7 @@
     'name': 'Picking Order Line Views',
     'summary': """Picking Order Lines Detailed Views""",
     'description': """Picking Order Line Detailed Views""",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

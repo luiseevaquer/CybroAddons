@@ -22,7 +22,7 @@
 
 {
     'name': 'Odoo Sendinblue Connector',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Allows to view the status of mail send by Odoo by Connecting to Sendinblue.',
     'description': 'Allows to view the status of mail send by Odoo by Connecting to Sendinblue.',
     'author': 'Cybrosys Techno solutions',

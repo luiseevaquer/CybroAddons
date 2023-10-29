@@ -22,7 +22,7 @@
 
 {
     'name': 'Partner Ledger with Partner Filter',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Partner Ledger Report with Partner Filter""",
     'description': """Partner Ledger Report with Partner Filter""",
     'author': 'Cybrosys Techno Solutions',

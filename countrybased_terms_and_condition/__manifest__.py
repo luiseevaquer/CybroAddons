@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Country-Based Terms and Condition",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': "Customise your terms and condition based on  the country of the contacts",
     'summary': """This module helps to give terms and condition of the company based on the customer's country""",
     'category': 'Extra Tools',

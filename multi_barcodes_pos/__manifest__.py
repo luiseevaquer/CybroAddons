@@ -25,7 +25,7 @@
     'name': 'POS Product Multi Barcode',
     'summary': """Allows to create multiple barcode for a single product""",
     'description': """Allows to create multiple barcode for a single product""",
-    'version': '16.0.1.0.2',
+    'version': '17.0.1.0.2',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Instagram Feed Snippet',
-    'version': '16.0.0.0.0',
+    'version': '17.0.0.0.0',
     'summary': 'Instagram Feed Snippet',
     'description': """The Odoo Instagram Feed Snippet module provides a feature to add an Instagram feed in Odoo.""",
     'category': 'Website',

@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'User Wise Button Restrict In POS ',
-    'version': '16.0.1.1.0',
+    'version': '17.0.1.1.0',
     'category': 'Point Of Sale',
     'summary': """User Wise Button Restrict In POS is used to restrict the 
     buttons in the pos basis of users and sessions""",

@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Product Multi Attachment',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Purchases,Discuss',
     'summary': """Multiple attachments can be added to products with the help
     of this module.""",

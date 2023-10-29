@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': "Legal Case Management Dashboard",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Industries',
     'summary': """Legal Case Management Dashboard to get an overview of 
      legal case management module.""",

@@ -22,7 +22,7 @@
 
 {
     'name': 'POS Service Charges',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point Of Sale',
     'summary': 'Allows you to set service charges.',
     'description': 'Allows you to set service charges for an order by globally and session wise.',

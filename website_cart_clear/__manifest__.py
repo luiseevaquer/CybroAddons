@@ -20,7 +20,7 @@
 
 {
     'name': 'Website Clear Cart',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Website Clear Cart',
     'description': """Website Clear Cart""",
     'category': 'Website',

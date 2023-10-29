@@ -24,7 +24,7 @@
     "summary": "Minimalist and elegant backend theme for Odoo 16 Enterprise",
     "description": """Minimalist and elegant backend theme for Odoo 16 Backend Theme Enterprise, Enterprise Theme, Backend Theme, Enterprise Backend Theme, V16 Theme""",
     "category": "Themes/Backend",
-    "version": "16.0.1.1.0",
+    "version": "17.0.1.1.0",
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

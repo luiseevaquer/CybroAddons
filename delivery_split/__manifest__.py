@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Delivery Split",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': """Delivery can be split to different recipients""",
     'description': ' In Odoo,currently delivery will be created to the customer'

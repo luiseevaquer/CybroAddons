@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Force Availability Button in Delivery',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Inventory/Inventory',
     'summary': 'Make goods available forcefully in the time of delivery when there is an availability problem occurs.',
     'description': """This module will help you to make goods available 

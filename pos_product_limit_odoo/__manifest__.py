@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Pos Product Limit Odoo 16',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Pos Product Limit Odoo 16""",
     'description': """Pos Product Limit Odoo 16""",
     'category': "Point of Sale",

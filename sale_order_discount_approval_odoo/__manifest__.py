@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Sale Order Discount Approval',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Sale Order Discount Approval',
     'sequence': 4,
     'description': """Module for discount approval of sales orders if 

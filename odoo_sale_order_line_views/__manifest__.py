@@ -21,7 +21,7 @@
     'name': 'Sale Order Line Views',
     'summary': """Sale Order and Quotation Lines Detailed View""",
     'description': """Sale Order and Quotation Lines Detailed View""",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

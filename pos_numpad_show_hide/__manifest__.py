@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'POS Numpad Show/Hide',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Show/Hide NumPad in POS',
     'description': 'This module help to hide/ show the numpad in POS module',
     'category': 'Point of Sale',

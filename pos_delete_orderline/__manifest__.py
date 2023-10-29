@@ -30,7 +30,7 @@
     'website': "https://www.cybrosys.com",
     'maintainer': "Cybrosys Techno Solutions",
     'category': 'Point of Sale',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'depends': ['base', 'point_of_sale'],
     'assets': {
         'point_of_sale.assets': [

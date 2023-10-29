@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'POS Order Line Mass Edit',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': """POS edit order line""",
     'description': """POS Order Line Mass Edit""",

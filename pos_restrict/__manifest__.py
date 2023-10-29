@@ -22,7 +22,7 @@
 {
     'name': 'POS User Restrict',
     'summary': """Restricts User access to pos and orders""",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': """Restricts User access to pos and orders""",
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',

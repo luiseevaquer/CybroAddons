@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Pin Records In Tree/List View",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """Pin Records In Tree/List View module is used to Pin Records 
     in Top of the Table.""",

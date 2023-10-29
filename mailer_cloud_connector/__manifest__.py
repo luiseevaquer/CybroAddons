@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Mailer Cloud Connector',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Email Marketing',
     'summary': 'Odoo Mailer Cloud Connector V16',
     'description': 'Odoo Mailer Cloud Connector v16',

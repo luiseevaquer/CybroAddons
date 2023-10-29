@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Table Reservation in POS",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': """The Table Reservation in Pos module is used to facilitate
     the management of reservations""",

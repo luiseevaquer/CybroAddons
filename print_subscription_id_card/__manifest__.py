@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Subscription ID Card',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales,Productivity',
     'summary': 'Print subscription ID card for user in sale order',
     'description': 'Print subscription ID card while clicking the button '

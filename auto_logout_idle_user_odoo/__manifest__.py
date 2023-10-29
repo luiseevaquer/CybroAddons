@@ -20,7 +20,7 @@
 ################################################################################
 {
     'name': 'Logout Idle User',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Auto logout idle user with fixed time""",
     'description': """User can fix the timer in the user's profile, if the user
      is in idle mode the user will logout from session automatically """,

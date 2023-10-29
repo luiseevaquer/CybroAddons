@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Duplicate Product BOM',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Duplicating a product will duplicate the products BOM also""",
     'description': """When you duplicate product it will also duplicate or copy BOM of the products so this odoo app
                     reduce lots of hassle when you need to add large number of product to be added for Manufacturing

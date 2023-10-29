@@ -20,7 +20,7 @@
 
 {
     'name': 'Timesheet PDF Report',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     "category": "Generic Modules/Human Resources",
     'sequence': 25,
     'summary': 'Timesheet PDF Report of Employees',

@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Purchase History Of Products',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Purchases',
     'summary': 'Show purchase history of products and variants',
     'description': """Which will helps to show purchase history of the products

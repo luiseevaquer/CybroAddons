@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Pos Membership',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': """This module is used to add membership discount in pos""",
     'description': """This is used to create membership types for customer and 

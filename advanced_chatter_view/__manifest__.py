@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Advanced Chatter View',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Productivity/Discuss',
     'summary': """Advanced odoo chatter view.""",
     'description': """This module is used to view advanced chatter.""",

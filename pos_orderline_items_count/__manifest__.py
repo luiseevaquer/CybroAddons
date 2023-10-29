@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Pos Order Line Items Count',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Module to show the count, quantity of items in the pos screen and pos receipt',
     'description': 'This module helps to show the count, quantity of items in the pos screen and pos receipt',
     'category': 'Point of Sale',

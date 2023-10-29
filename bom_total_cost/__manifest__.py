@@ -21,7 +21,7 @@
 
 {
     'name': 'Show Total Cost on BOM',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'The total cost of the BOM based on the raw materials cost price',
     'sequence': -100,
     'description': "This Module Helps to Show the 'Total cost per Unit and 'Total Cost of a BOM' Based on the Components Cost price",

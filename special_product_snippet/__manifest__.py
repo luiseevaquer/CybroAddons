@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Special Product Website Snippet',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Select Product and Multiple Template for Product in Website Snippet""",
     'category': 'Website',
     'description': """This module gives an option to user to select product 

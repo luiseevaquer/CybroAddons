@@ -23,7 +23,7 @@
 
 {
     'name': 'POS Order Management',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': "POS All Order's Management",
     'summary': "POS All Order's Management",
     'author': 'Cybrosys Techno Solutions',

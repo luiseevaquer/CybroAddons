@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Click And Collect PoS',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'With this module, customers may place product orders online '
                'and pick them up from the closest shop.',

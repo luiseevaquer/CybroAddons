@@ -22,7 +22,7 @@
 
 {
     'name': 'Theme Silon',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Attractive and unique front-end theme for eCommerce websites',
     'description': 'Attractive and unique front-end theme for eCommerce websites',
     'category': 'Theme/eCommerce',

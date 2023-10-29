@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Website Robots.Txt',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Custom website Robots.txt file for odoo 16',
     'description': """The module helps you to custom robots.txt file as per needs.""",
     'author': 'Cybrosys Techno Solutions',

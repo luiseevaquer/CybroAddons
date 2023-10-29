@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Car Workshop',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Complete Vehicle Workshop Operations & Reports',
     'description': 'Vehicle workshop operations & Its reports',
     'category': 'Industries',

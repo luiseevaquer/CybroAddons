@@ -22,7 +22,7 @@
 {
     "name": "Sale Order Line Images",
     "summary": "Order Line Images In Sale and Sale Report",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "category": 'Sales',
     "website": "https://www.cybrosys.com",
     "description": """Order Line Images In Sale and Sale Report, odoo 16, order line images""",

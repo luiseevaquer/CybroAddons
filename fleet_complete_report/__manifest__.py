@@ -23,7 +23,7 @@
 
 {
     'name': 'Fleet Complete Report',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources/Fleet',
     'summary': 'Complete PDF report for Fleet',
     'description': 'Complete PDF report for Fleet',

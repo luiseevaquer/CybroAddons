@@ -22,7 +22,7 @@
 
 {
     'name': 'Customize Login Page Style',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Customize The Login Page With Different Styles',
     'description': 'Customize The Login Page With Different Styles',
     'category': 'Extra Tools',

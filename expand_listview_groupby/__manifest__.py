@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Expanding Listview In GroupBy',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Allows to expanded the records that folded by GroupBy filter',
     'description': 'By simply clicking a Button the records that folded will '

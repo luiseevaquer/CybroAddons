@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'POS Restriction For Zero Quantity.',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'This module will restrict zero quantity confirmation in POS.',
     'description': """This module will help you to avoid zero quantity 

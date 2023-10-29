@@ -22,7 +22,7 @@
 
 {
     "name": "Previous Sale/Purchase Product Rates",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     "summary": """Provide Product's Previous Sale & Purchase Price History for Partner.""",
     "description": """Provide product's previous prices in product master.""",
     "category": "Sales",

@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Theme Classic Store',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Theme/eCommerce',
     'summary': 'Theme Classic Store for Odoo Website and e-Commerce',
     'description': 'Theme Classic Store is an attractive eCommerce theme.'

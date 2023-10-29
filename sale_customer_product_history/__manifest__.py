@@ -22,7 +22,7 @@
 
 {
     'name': "Sales History Of Products",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Sales history of products from Sales Order Line""",
     'description': """Sales history of products from Sales Order Line""",
     'author': "Cybrosys Techno Solutions",

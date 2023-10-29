@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Advanced Many2Many Tags',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Copy the text and open the form view of many2many tags.',
     'description': """Copy text of Many2many tags.So we can paste it anywhere 

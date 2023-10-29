@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'POS Product Auto Sync',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'Create or update product automatically in multiple sessions',
     'description': "This module crafted by Cybrosys Technologies provides an "

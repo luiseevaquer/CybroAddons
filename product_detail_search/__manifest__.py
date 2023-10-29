@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Find Products in Pos and Stock using Barcode',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'Find Products in Pos and Stock using Barcode  utilizes barcode'
                ' scanning to quickly identify and track items. Each product'

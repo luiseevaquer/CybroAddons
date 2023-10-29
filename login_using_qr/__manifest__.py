@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Login using QR Code',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """Users can login by scanning QR Code""",
     'description': """A QR code is generated inside the users model, 

@@ -21,7 +21,7 @@
 ############################################################################
 {
     'name': "Website SEO Kit",
-    'version': '16.0.1.1.0',
+    'version': '17.0.1.1.0',
     'summary': """Website seo kit used for 
                 automatically generate meta titles, descriptions, 
                 and keywords for each product and product category""",

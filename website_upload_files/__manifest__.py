@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Multiple Attachments In eCommerce Order',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'eCommerce',
     'summary': 'Can upload files in payment page of website.',
     'description': 'Can upload files related to the sale order in payment page'

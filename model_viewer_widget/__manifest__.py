@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': '3D Image Viewer Widget',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """It helps to render interactive 3D models.""",
     'description': """It helps to render interactive 3D models. Zoom in and
      zoom out feature is available and also can move in in any direction""",

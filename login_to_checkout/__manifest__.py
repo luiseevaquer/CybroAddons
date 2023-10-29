@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Verify Before Checkout',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Verify the user before checkout of the product',
     'description': """The module helps you to verify the user before 
     CheckOut of the product if the user is not logged in""",

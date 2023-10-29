@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Theme Trading',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Theme/Corporate',
     'summary': 'Theme Trading is an attractive trading Website theme. '
                'The theme comes with many useful and stylish snippets',

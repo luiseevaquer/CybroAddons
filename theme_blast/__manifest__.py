@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Theme Blast',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Theme Blast',
     'description': 'Theme Blast Front-end theme',
     'category': 'Theme/Corporate',

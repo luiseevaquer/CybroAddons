@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Activity Reminder',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Discuss',
     'summary': "Setting an reminder email to employees for their activity ",
     'description': "Setting a reminder email to employees for their activity by"

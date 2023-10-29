@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Merge RFQ',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """This module merege two or more RFQ by cancelling or deleting
         the others in RFQ and RFQ sent state.""",
     'description': """'Merge RFQ' is a module for Odoo 16 that allows users to 

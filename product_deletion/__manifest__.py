@@ -21,7 +21,7 @@
 {
     'name': 'Product Removal Authorisation',
     'summary': """Users in the Group "Product Deletion" Can Only Delete the Products""",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': """Permission to delete the product, Odoo 13, Odoo""",
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',

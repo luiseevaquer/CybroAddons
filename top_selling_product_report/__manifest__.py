@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Top/Least Selling Product Report',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'category': 'Sales',
     'summary': 'Top Selling and Least Selling Product Reports',
     'description': 'Top Selling Products,Fast Moving Products,Most Selling '

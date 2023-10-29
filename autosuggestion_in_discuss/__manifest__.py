@@ -22,7 +22,7 @@
 
 {
     'name': 'Autosuggestion in Discuss',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Productivity/Discuss',
     'summary': 'Show auto suggestion in chat in Odoo.',
     'description': 'Previous messages of user will be '

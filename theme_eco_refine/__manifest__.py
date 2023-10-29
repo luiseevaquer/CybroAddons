@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Theme Eco Refine',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Theme/eCommerce',
     'summary': 'Theme Eco Refine',
     'description': 'Theme Eco Refine module provide attractive and unique '

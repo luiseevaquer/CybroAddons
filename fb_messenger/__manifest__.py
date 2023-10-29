@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Facebook Messenger in Odoo Website",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Marketing',
     'summary': 'Facebook Messenger. '
                'This helps your customers to contact you using Facebook Messenger.',

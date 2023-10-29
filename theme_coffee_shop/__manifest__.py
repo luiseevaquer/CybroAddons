@@ -23,7 +23,7 @@
     'name': 'Coffee Shop',
     'description': 'Theme Coffee Shop',
     'summary': 'Theme Coffee Shop',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'website': 'https://www.cybrosys.com',

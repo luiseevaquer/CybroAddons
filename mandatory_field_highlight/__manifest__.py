@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Highlight Mandatory Field',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'This Module will help to customize mandatory fields in odoo',
     'description': """User can customize the mandatory field's view by 
                     different colors""",

@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'PoS Happy Hours | PoS Time Based Products | PoS Breakfast Lunch Dinner',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'This module enables you to display time-based products '
                'in POS. The item will vary as time goes on',

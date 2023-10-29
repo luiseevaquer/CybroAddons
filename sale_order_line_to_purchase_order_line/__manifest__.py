@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Convert Sale Order Line To Purchase Order Line",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """Module to convert selected sale order lines to purchase 
     order lines easily.""",

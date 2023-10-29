@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "PSQL Query Execute",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """Run the PSQL query in the Odoo user interface.""",
     'description': """This module helps you execute a query directly

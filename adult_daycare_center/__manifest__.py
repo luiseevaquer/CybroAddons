@@ -20,7 +20,7 @@
 #############################################################################
 {
     'name': "Adult Day Care Center",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Tools',
     'summary': """ Adult Day Care Center For Senior Citizens """,
     'description': """ Adult Day Care Center For Senior Citizens""",

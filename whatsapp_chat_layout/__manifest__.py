@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Whatsapp Chat Layout in Odoo Discuss',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Redesigned the discuss module into whatsapp chat layout',
     'description': 'Odoo discuss with whatsapp view',
     'category': 'Discuss',

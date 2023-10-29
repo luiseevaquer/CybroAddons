@@ -20,7 +20,7 @@
 #############################################################################
 {
     'name': " Add Multiple Items To Cart",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': """This app is helpful to add products to cart.""",
     'description': """In this app, we can introduce a convenient functionality 

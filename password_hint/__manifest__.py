@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Password Hint ',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': "This Module Allows To Set An Password Hint",
     'description': "This Module Allows To Set An Password Hint To Remind password",
     'category': 'Extra Tools',

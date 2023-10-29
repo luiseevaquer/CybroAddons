@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Import Template For Sales / Purchase / Invoice",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales, Purchase, Accounting',
     'summary': """ Download Import Templates for Sales, Purchase and Invoice """,
     'description': """ Download and import the templates for sales order, 

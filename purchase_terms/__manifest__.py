@@ -23,7 +23,7 @@
 
 {
     'name': 'Purchase Default Terms and Conditions',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Purchase Default Terms and Conditions',
     'description': """Purchase Default Terms and Conditions.""",
     'category': 'Purchase',

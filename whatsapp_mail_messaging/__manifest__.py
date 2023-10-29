@@ -22,7 +22,7 @@
 
 {
     'name': 'Odoo Whatsapp Connector',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """Odoo Whatsapp Connector For Sales, Invoice, and Floating button in Website""",
     'description': """Added options for sending Whatsapp messages and Mails in systray bar,sale order, invoices, 

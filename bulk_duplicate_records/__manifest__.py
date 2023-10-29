@@ -23,7 +23,7 @@
 
 {
     'name': 'Mass duplicate Records',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'summary': 'Allows to duplicate multiple records in any models.',
     'description': 'Allows to duplicate multiple records from list/tree view at a time in any models.',
     'author': 'Cybrosys Techno solutions',

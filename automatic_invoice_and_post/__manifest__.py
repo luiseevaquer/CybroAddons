@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Automatic Invoice And Post',
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'depends': ['base', 'sale_management', 'stock', 'account'],
     'category': 'Sales,Warehouse,Accounting',
     'summary': """ Auto Invoice from Delivery validate.""",

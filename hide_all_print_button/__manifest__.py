@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'All In One Hide Print Button',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales, Purchases, Accounting, Warehouse, Manufacturing,'
                 'Project',
     'summary': """ This module will help you to hide print button per user.""",

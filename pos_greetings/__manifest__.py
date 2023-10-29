@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'POS Customer Greeting Messages',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'Send Greeting messages to Customers in Pos Order',
     'description': 'Send Greeting messages to Customers in Pos Order',

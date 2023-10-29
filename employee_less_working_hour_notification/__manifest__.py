@@ -20,7 +20,7 @@
 ################################################################################
 {
     'name': "Employee Less Working Hour Notification",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources',
     'summary': ' Send Less Hours Worked Employees Details to HR',
     'description': 'Employee Less Working Hour Notification Mail App helps to '

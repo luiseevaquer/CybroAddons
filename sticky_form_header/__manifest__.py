@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Sticky Form Header',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """ Sticky Form Header for Odoo 16 Community Edition. """,
     'description': """ This module allows users to view form without loosing heading details.""",

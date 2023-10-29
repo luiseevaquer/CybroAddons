@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Top Selling Products In Category Snippet',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'eCommerce',
     'summary': """Show Most Sold Products in Website Based On Category""",
     'description': """Showcase top most sold products on your website based on 

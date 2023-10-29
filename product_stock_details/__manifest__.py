@@ -22,7 +22,7 @@
 
 {
     'name': "Product Stock Details",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """List And Print the Stock Details of Product""",
     'description': """This module has been developed for listing and printing product stock by location. 
                     Get an overview of Available, Forecasted, Incoming and Outgoing quantity of product from the

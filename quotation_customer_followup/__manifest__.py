@@ -22,7 +22,7 @@
 
 {
     'name': 'Quotation Customer Followup',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': 'verification for quotation expierd and sending email to quotation customer',
     'summary': """Followup mail to customer for late quotations Expiry warning mail for  quotations""",
     'category': 'Sales',

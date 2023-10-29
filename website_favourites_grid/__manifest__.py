@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Website Wishlist Grid View',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': 'Grid view for website wishlist.',
     'description': "This module helps to see the favourites products in grid "

@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': "Website Hide Button",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website/Website',
     'summary': 'Hide Price, Add To Cart and Quantity for guest users',
     'description': 'This app helps to hide Price, Add to Cart and Quantity buttons for guest users',

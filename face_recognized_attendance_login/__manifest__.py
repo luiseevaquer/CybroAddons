@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Face Recognized Attendance Login',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources',
     'summary': """Mark the attendance of employee by recognizing their face""",
     'description': """This module introduces a face recognition system in the 

@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': "Odoo Amazon S3 Connector",
-    'version': "16.0.1.0.0'",
+    'version': "17.0.1.0.0",
     'category': "Document Management",
     'summary': """ Connect with Amazon S3 Files from Odoo""",
     'description': """This module was developed to upload to Amazon S3 Cloud 

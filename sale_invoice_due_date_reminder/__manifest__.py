@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Due Date Reminder for Invoicing and Sales',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales, Accounting',
     'summary': """Send reminder mail for all the partners with due on sale 
                   order and invoicing.""",

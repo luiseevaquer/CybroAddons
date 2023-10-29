@@ -24,7 +24,7 @@
     'description': 'Theme Fuge is an attractive and modern eCommerce Website theme',
     'summary': 'Design Web Pages with theme fuge',
     'category': 'Theme/eCommerce',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

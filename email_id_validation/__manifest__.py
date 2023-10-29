@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': "Email Verification for Partner and Employee",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Discuss',
     'summary': """Check Whether A Given E-mail ID Is Valid Or Not""",
     'description': """Check Whether A Given E-mail ID Is Valid Or Not In 

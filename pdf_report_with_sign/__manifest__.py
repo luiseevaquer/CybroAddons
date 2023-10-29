@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Reports With Signature',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Productivity',
     'summary': """All PDF reports of Odoo with Signature""",
     'description': """Allows to print the Signature in all PDF reports easily""",

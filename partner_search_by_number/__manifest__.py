@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Partner Search By Number',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """This app allows us to search customer by their phone number
      and mobile number in  odoo16.""",
     'description': """With the help of this software, we can search for

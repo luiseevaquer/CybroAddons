@@ -22,7 +22,7 @@
 #################################################################################
 {
     'name': "Invoice Tags",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Accounting',
     'description': 'Use invoice related tags and filter them accordingly',
     'summary': 'Add tags in invoicing',

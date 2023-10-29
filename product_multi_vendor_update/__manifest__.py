@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Bulk Updates of Vendor Details on Products",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "category": "Purchases",
     "summary": "Update multiple product vendor information",
     "description": "Update vendors  details of multiple product simultaneously."

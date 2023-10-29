@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Inventory Dashboard Odoo 16',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'category': 'Inventory',
     'summary': 'Inventory Dashboard',
     'description': "Detailed Dashboard View For Inventory",

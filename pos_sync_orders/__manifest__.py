@@ -22,7 +22,7 @@
 #############################################################################
 {
     'name': 'POS Sync Orders',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'This Module will help to sync orders to backend on a '
                'button click.',
     'description': 'This Module will help to sync orders to backend on a '

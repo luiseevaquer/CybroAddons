@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Theme Rozz',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Theme/corporate',
     'summary': 'Design Web Pages with Theme Rozz',
     'description': 'Theme Rozz is a attractive and unique front-end theme '

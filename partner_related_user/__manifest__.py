@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Partner Related User and User Filters',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'This module will help you to add related user in the corresponding partner.',
     'description': 'This module will help you to add related user in the corresponding partner, if there is any.You can filter by users in the contact.And also there is an option for filter by different module users in the Users.',

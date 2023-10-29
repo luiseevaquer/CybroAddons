@@ -22,7 +22,7 @@
 
 {
     'name': 'Inter Company Stock Transfer',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Create counterpart Receipt/Delivery Orders between companies.""",
     'description': """Automatically Create Receipt/Delivery orders if any company validates a 
                       Deliver Order/Receipt to the selected company,Inter Company Stock Transfer, Stock Transfer,

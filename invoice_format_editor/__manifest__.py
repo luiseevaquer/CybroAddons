@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Invoice Format Editor',
-    'version': '16.0.2.0.0',
+    'version': '17.0.2.0.0',
     'category': 'Accounting',
     'summary': 'Invoice Format Editor',
     'description': """Invoice Format Editor For Configuring the Invoice 

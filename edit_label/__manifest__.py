@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Double Click Field Label Edit',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Tools',
     'summary': """Double Click A Field To Edit The Label""",
     'description': """Double Click A Field To Edit The Label""",

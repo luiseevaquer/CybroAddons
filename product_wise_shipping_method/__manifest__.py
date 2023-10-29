@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Product Wise Shipping Method',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales/Sales',
     'summary': """ Product Wise Shipping Method for sale order. """,
     'description': """ This module helps to provide shipping method easily via choosing products in order line. """,

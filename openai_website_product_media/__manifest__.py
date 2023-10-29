@@ -22,7 +22,7 @@
 ###########################################################################
 {
     'name': 'OpenAI Ecommerce Product Media ',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Open AI Product Media Images for Ecommerce.',
     'description': 'Module helps to convert the image created on dalle sample '

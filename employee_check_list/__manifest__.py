@@ -22,7 +22,7 @@
 
 {
     'name': 'Employee Checklist',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Manages Employee's Entry & Exit Process""",
     'description': """This module is used to remembering the employee's entry and exit progress.""",
     'category': 'Generic Modules/Human Resources',

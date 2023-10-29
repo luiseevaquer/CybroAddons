@@ -20,7 +20,7 @@
 ###################################################################################
 {
     'name': 'Event Catering Service',
-    'version': '16.0.2.0.0',
+    'version': '17.0.2.0.0',
     'summary': """Catering Service for Event Management Module.""",
     'description': """Catering Service for Event Management Module.""",
     "category": "Industry",

@@ -22,7 +22,7 @@
 ################################################################################
 {
     'name': 'Product Pack',
-    'version': '16.0.1.0.3',
+    'version': '17.0.1.0.3',
     'summary': 'Manage Products as Pack',
     'description': 'Manage Products as Pack',
     'category': 'Sales',

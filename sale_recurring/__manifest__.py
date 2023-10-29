@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Sale Recurring',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': 'Automatic sale order creation based on recurring orders',
     'description': 'This module is helps to create sale orders automatically '

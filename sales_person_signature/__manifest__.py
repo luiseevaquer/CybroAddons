@@ -22,7 +22,7 @@
 
 {
     'name': "Salesperson Signature",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """In this module allows the salesperson to add his signature and also
                     available the option for making the validate option in sales
                     visible/invisible based on the salesperson signature""",

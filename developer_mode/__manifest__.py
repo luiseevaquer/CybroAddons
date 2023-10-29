@@ -25,7 +25,7 @@
     'name': "Automatic Developer Mode",
     'summary': """Automatically Activate Developer Mode""",
     'description': """Automatically Activate Developer Mode""",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'website': "https://www.cybrosys.com",
     'company': 'Cybrosys Techno Solutions',

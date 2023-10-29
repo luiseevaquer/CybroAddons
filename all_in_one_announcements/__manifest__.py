@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'All In One Announcements',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """The module helps to analyse the work progress.""",
     'description': """The module gives a complete analysis of the work

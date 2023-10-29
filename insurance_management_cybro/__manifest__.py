@@ -22,7 +22,7 @@
 
 {
     'name': 'Insurance Management',
-    'version': '16.0.1.1.1',
+    'version': '17.0.1.1.1',
     'summary': """Insurance Management & Operations""",
     'description': """Insurance Management""",
     'author': 'Cybrosys Techno Solutions',

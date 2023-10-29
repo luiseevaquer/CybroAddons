@@ -20,7 +20,7 @@
 ###################################################################################
 {
     'name': 'Product Brand in Inventory',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'category': 'Warehouse',
     'summary': 'Product Brand in Inventory',
     'description': 'This module lets you add '

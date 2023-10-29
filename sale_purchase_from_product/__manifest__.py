@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Sale/Purchase Orders from Products',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Sale/Purchase Orders from Products',
     'description': 'This module will help to create new sale/purchase orders using the selected products and '
                    'it will add the selected products to draft orders',

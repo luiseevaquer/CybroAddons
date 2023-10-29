@@ -21,7 +21,7 @@
 ########################################################################################
 {
     'name': 'Timesheet Description from Grid View',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Add Timesheet Description from Grid view and Kanban View',
     'description': 'Add Timesheet Description from Grid view and Kanban View',
     'category': 'Human Resources',

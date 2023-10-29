@@ -20,7 +20,7 @@
 #############################################################################
 {
     'name': 'Minutes of Meetings and Print Meetings',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Module for Minutes of Meetings and Print PDF Report. ',
     'description': 'Module for Minutes of Meetings and Print PDF Report',
     'category': 'Project',

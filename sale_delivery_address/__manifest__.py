@@ -22,7 +22,7 @@
 
 {
     'name': 'Multiple Delivery Addresses for Sale Order',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': "Multiple Delivery Addresses for Sale Order",
     'description': """
     If the customer have multiple addresses, the user can choose delivery 

@@ -24,7 +24,7 @@
     'name': 'Import User with Access rights',
     'summary': 'Import User details with Access rights by Excel',
     'category': 'Extra Tools',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': """Allows to import User with User type and Access rights""",
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',

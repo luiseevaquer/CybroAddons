@@ -21,7 +21,7 @@
 # ###############################################################################
 {
     'name': 'Partner Related Documents',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Document Management',
     'summary': """ Store and access documents for the related contact""",
     'description': """ Store and access documents for the related contact, 

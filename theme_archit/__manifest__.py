@@ -22,7 +22,7 @@
 
 {
     'name': 'Theme Archit',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': 'Theme Archit is a specialized web design module for Odoo, providing a range of tools and '
                    'features to streamline the process of designing and developing websites within the Odoo platform.',
     'summary': 'Design The Web Pages with theme Archit',

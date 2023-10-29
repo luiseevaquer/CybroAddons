@@ -26,7 +26,7 @@
                'This theme promises to offer a refreshing experience with Odoo,'
                'enhancing its functionality and aesthetics."',
     'category': 'Theme',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

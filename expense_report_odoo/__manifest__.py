@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Employee Expense Report",
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'category': 'Human Resources',
     'summary': 'The administrator has the ability to view the expense reports '
                'of any employee they choose, while regular users can only '

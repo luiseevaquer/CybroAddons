@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'One2many Excel Report',
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'summary': """One2many Excel Report which is used to print the excel report 
     of one2many fields.""",
     'description': """One2many Excel Report is a module which uses a widget 

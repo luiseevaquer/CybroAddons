@@ -22,7 +22,7 @@
 ################################################################################
 {
     'name': 'Widget Image Preview',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Widget Image Preview enables to enlarge image while clicking on it""",
     'description': """Widget Image Preview enables to enlarge image while clicking on it""",
     'category': 'Extra Tools',

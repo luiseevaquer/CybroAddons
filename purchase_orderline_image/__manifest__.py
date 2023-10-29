@@ -23,7 +23,7 @@
     "name": "Purchase Order Line Images",
     "summary": "Order Line Images In Purchase and Report",
     "description": """Order Line Images In Purchase and Report""",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "category": 'Purchase/Purchase',
     "website": "https://www.cybrosys.com", 
     'author': 'Cybrosys Techno Solutions',

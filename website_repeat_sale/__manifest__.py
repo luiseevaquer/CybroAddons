@@ -22,7 +22,7 @@
 
 {
     'name': "Website Reorder",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Add products from sale history of customers to cart """,
     'description': """Add products from sale history of customers to cart """,
     'author': "Cybrosys Techno Solutions",

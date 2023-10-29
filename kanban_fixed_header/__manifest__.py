@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Kanban Fixed Header',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """ Kanban Fixed Header for Odoo 16 Community and Enterprise Edition. """,
     'description': """ This module allows users to view kanban without loosing heading details.""",

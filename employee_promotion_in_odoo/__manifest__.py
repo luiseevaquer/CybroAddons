@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Employee Promotion",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources',
     'summary': " With the help of this module you can set promotion for "
                "employee . Also we can see the promotion in each employee form.",

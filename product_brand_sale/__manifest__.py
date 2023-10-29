@@ -22,7 +22,7 @@
 
 {
     'name': 'Product Brand in Sale',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': 'Product Brand in Sales',
     'description': 'Product Brand in Sales,brand,sale, odoo15',

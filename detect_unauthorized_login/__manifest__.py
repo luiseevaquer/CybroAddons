@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Unauthorized Login Notification And Image Capture',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Automatic image capture while login with wrong password and a '
                'notification is sent.',

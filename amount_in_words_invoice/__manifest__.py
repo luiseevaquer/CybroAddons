@@ -22,7 +22,7 @@
 ###################################################################################
 {
     'name': "Amount In Words In Invoice, Sale Order And Purchase Order",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Showing the subtotal amounts of invoice, sale order and purchase order in words""",
     'description': """The Module to Shows The Subtotal Amount in Words on Invoice, Sale Order and Purchase Order""",
     'author': 'Cybrosys Techno Solutions',

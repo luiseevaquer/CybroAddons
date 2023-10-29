@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Bill Of Material from Sale Order Line",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Manufacturing/Manufacturing',
     'summary': 'Select the BOM in sale order line and generate the manufacturing order of components',
     'description': 'Select the Bill of Material of each product in Sale Order Line. After confirmation of Sale Order, '

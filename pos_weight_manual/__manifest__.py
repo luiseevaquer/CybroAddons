@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'POS Manual Weight',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'Add Manual Weight for products in POS.',
     'description': """This module will help you to add product weight manually 

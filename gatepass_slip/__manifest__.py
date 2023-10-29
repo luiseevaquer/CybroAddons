@@ -22,7 +22,7 @@
 {
     'name': 'Delivery Gate Pass',
     'summary': """Generating Gate pass slip in delivery orders""",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': """This module facilitates the creation of gate pass slips 
                       for users, which can be used as a pass to let a vehicle 
                       into a facility. The slips allow for the addition of 

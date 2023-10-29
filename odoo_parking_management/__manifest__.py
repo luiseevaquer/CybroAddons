@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Parking Management',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Manage the parking of vehicles',
     'sequence': 4,
     'description': """This module is developed for managing the vehicle 

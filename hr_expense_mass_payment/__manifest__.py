@@ -20,7 +20,7 @@
 ###############################################################################
 {
     'name': 'Mass Register Expense Payment',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources',
     'summary': 'Register payment of multiple expenses together.',
     'description': """This module allows you to register multiple expenses 

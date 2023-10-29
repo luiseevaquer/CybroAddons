@@ -25,7 +25,7 @@
     "description": """Create Custom Pivot Report For Any Model Without Coding, Dynamic Pivot Report, Custom Pivot Report, Dynamic Report, Pivot View""",
     "summary": """Create Custom Pivot Report For Any Model Without Coding""",
     "category": "Tools",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': "Use By Default Filter",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """
         Make filter as default filter on a click.

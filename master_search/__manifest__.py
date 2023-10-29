@@ -21,7 +21,7 @@
 
 {
     'name': 'Global Search',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'summary': """Easy Search in Customers, Products, Sale, Purchase, Inventory and Accounting modules""",
     'description': """Search, Global Search, Quick Search, Easy Search, Easy Search in Customers, Products, Sale, Purchase, Inventory and Accounting modules, 
                       Search, Advance search, global search, odoo16, """,

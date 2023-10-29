@@ -21,7 +21,7 @@
 ###############################################################################
 {
     "name": "Blueberry Backend Theme",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "category": "Themes/Backend",
     "summary": """Backend theme for Odoo 16.0 community edition""",
     "description": "Blueberry Backend Theme Is A Ultimate Theme for Odoo 16."

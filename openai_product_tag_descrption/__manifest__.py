@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Generate Product Description/Tags Using OpenAI',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Automate Product Tag Creation and Description Generation with My Module in Odoo Using OpenAI API',
     'description': 'Automate Product Tag Creation and Description Generation with My Module in Odoo Using OpenAI API',

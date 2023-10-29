@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': "Customer's Dealers Special Price",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': """The Dealer will get a Special Price if he Orders the Minimum
      Amount of Products""",

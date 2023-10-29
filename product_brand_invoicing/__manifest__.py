@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Product Brand in Invoicing',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Accounting',
     'summary': 'Product Brand in Invoicing',
     'description': 'Product Brand in Invoicing, brand, odoo 13',

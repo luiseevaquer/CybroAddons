@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Packers & Movers Management',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Industries,Website',
     'summary': """Users can reserve trucks online with the help of the Packers & Movers Management module.""",
     'description': """The Packers & Movers Management module helps Users to 

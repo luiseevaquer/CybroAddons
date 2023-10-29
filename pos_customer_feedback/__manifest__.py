@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': "POS Customer Feedback",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'Customer Feedback in PoS',
     'description': """This module enables the management of customer feedback

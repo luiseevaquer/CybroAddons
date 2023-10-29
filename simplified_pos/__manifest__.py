@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Simplified POS',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'All aspects of POS on a single page.',
     'description': 'A straightforward point-of-sale system that enables '

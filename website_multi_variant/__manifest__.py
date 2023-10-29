@@ -20,7 +20,7 @@
 #############################################################################
 {
     'name': 'Website Multi Variant Add to Cart',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': "Enhance product details page with prominent attribute options,"
                " quantity box, and quick add to cart feature.",

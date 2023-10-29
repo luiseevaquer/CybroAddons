@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Fleet Rental Dashboard',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Productivity',
     'summary': 'Dashboard for fleet rental management',
     'description': 'This dashboard module enhances the fleet rental management '

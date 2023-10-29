@@ -22,7 +22,7 @@
 
 {
     'name': "Product Image In List View",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Product image in List view""",
     'description': """Users can view the image in product's list view""",
     'author': "Cybrosys Techno Solutions",

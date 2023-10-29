@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Model Access Rights',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Others',
     'summary': """ Can hide options from user """,
     'description': """Can hide options according to specific model

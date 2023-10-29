@@ -21,7 +21,7 @@
 
 {
     'name': 'Multiple DatePicker Widget',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Widget for picking multiple dates',
     'description': 'Widget for picking multiple dates',
     'category': 'Tools',

@@ -23,7 +23,7 @@
 
 {
     'name': 'Sale Order Custom Fields',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Ability To Add Custom Fields in Sale Order From User Level""",
     'description': """Ability To Add Custom Fields in Sale Order From User Level,Sale Order Custom Fields,
                       Sale Order Dynamic Fields, odoo13, Dynamic Sale Order Fields, Dynamic Fields, Create Dynamic Fields, Community odoo Studio""",

@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Project Task Risk Management Odoo',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Project Task Risk Management Odoo',
     'description': """Project Task Risk Management Odoo""",
     'category': 'Extra Tools',

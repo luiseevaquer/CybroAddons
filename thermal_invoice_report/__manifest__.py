@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Thermal Invoice Report",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'A Module For Printing Thermal Invoice',
     'description': 'This app allows us to print thermal Invoices.',
     'category': 'Accounting',

@@ -22,7 +22,7 @@
 
 {
     'name': 'Uom Product List',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales/Sales',
     'summary': 'Uom Product List for listing out the products in its unit of measure',
     'description': 'A UOM Product List is a comprehensive record that displays a list of products with their '

@@ -22,7 +22,7 @@
 
 {
     'name': 'Whatsapp Floating Icon in Website',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """Whatsapp Floating Icon in Website""",
     'description': """Whatsapp Floating Icon in Website, Website Floating WhatsApp Icon, Whatsapp Odoo Website,Whatsapp Odoo Coonector, Whatsapp website, Whatsapp""",

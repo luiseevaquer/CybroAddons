@@ -22,7 +22,7 @@
 
 {
     'name': 'Readonly Price Unit for Sale and Invoice',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Price Unit Readonly for Sale and Invoice.',
     'description': 'Price Unit Readonly for Sale and Invoice.',
     'author': 'Cybrosys Techno Solutions',

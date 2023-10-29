@@ -21,7 +21,7 @@
 ##############################################################################
 {
     'name': 'Sale Report Format Editor',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': 'Sale Report Format Editor For Configuring the Sale Report '
                'Templates',

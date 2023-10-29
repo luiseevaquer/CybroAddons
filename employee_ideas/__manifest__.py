@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Employee Ideas',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources',
     'summary': """ Share the ideas """,
     'description': """ Can easily share the ideas of an employee to others""",

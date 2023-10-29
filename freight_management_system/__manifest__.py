@@ -22,7 +22,7 @@
 ###################################################################################
 {
     'name': 'Freight Management',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Module for Managing All Frieght Operations',
     'description': 'Module for Managing All Frieght Operations',
     'author': 'Cybrosys Techno Solutions',

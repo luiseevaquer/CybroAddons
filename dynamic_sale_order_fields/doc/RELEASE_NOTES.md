@@ -1,7 +1,7 @@
 ## Module <dynamic_sale_order_fields>
 
 #### 09.10.2020
-#### Version 16.0.1.0.0
+#### Version 17.0.1.0.0
 ##### ADD
 
 - Initial Commit for dynamic_sale_order_fields

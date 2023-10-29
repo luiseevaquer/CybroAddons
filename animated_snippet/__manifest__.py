@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Animated Snippets",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Animated Snippets for Websites.""",
     'description': """Variety of Snippets With Animations to Beautify your Website.""",
     'author': "Cybrosys Techno Solutions",

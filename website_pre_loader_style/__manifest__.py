@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Website Pre-Loader',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': "Customized pre-loader for websites",
     'description': "This module allows users to customize the pre-loader"

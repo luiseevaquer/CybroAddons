@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Merge Picking Orders',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Warehouse',
     'summary': "With This Module, You Can Easily Merge Pickings such as "
                "Receipts, Delivery Orders and Returns",

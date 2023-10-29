@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Customer Order Comment',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """
     This module helps you to add customer rating and comments through website.
     """,

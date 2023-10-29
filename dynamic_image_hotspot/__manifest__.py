@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Dynamic Image Hotspot',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': 'Add dynamic hotspot for snippet images',
     'description': "The app allows users to add a hotspot for snippet images. "

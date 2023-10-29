@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Attendance Calendar View',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources/Attendances',
     'summary': 'This module will help you to create timesheet for manufacturing orders according to the work order time tracking..',
     'description': 'This module will help you to create timesheet for manufacturing orders according to the work order time tracking..',

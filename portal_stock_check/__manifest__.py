@@ -22,7 +22,7 @@
 
 {
     'name': "Portal Product Availability",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': """Portal Product Availability""",
     'description': """Portal Users Can Check The Availability of Products""",

@@ -22,7 +22,7 @@
 
 {
     'name': 'HR Balance Leave Report',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Human Resources/Time Off',
     'summary': 'Allocated balance, taken leaves and remaining balance per leave type for each employee',
     'description': 'User Can view Allocated balance, taken leaves and remaining balance per leave type for '

@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Add Multiple Products To Invoice/Bill',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Accounting',
     'summary': 'Easily add multiple products to a invoice/bill directly from '
                'the product views',

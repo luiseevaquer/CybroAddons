@@ -23,7 +23,7 @@
 {
     'name': 'Product Image from URL',
     'summary': 'Product Images from Web URL and Path',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'description': """Product Images from Web URL, Product Images from path, local""",
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',

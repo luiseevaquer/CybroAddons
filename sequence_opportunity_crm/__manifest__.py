@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Unique Sequence Number In CRM Opportunity',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': 'Sequence number for CRM opportunities',
     'description': """Module helps to Setup sequence number of each crm opportunities""",

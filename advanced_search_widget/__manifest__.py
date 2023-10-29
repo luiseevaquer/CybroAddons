@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Advanced Search Widget',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': "It elevates the design of search menu items and offers" 
                "sophisticated expression options for filtering categories",

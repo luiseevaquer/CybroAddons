@@ -23,7 +23,7 @@
 {
     'name': 'Digital Signature In Purchase Order, Invoice, Inventory',
     'summary': 'Digital Signature in Purchase Order, Invoice, Inventory V15',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Tools',
     'description': """Digital Signature in Purchase Order, Invoice, Inventory V15""",
     'author': 'Cybrosys Techno Solutions',

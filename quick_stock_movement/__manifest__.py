@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Easy Stock Movement',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Warehouse',
     'summary': 'This module is used transfer of stock from one location '
                'to another',

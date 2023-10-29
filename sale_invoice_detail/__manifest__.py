@@ -22,7 +22,7 @@
 
 {
     'name': 'Advanced Invoice Details on Sale order',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': "Invoice Details on Sale order",
     'description': "Invoice Details on Sale order",
     'category': 'Sale',

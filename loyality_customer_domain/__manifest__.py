@@ -22,7 +22,7 @@
 ###################################################################################
 {
     'name': "Loyalty Customer Domain",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales/Sales',
     'description': 'Loyalty program customer domain',
     'summary': 'Loyalty program customer domain along with product domain',

@@ -21,7 +21,7 @@
 #########################################################################
 {
     'name': "Sync Google Task With Project Task",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Project',
     'summary': 'Module For Integrating Google Tasks.',
     'description': """Google Task Integration for Project Tasks odoo app 

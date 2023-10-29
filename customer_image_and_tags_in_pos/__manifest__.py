@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Customer Image And Tags In POS',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Images and tags in pos customer session',
     'description': 'Can see the image and tags of customer in '
                    'customer selection page while choosing'

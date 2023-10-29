@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Cookie Consent Manager',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Manage and customize website cookie consent templates',
     'description': 'The Cookie Consent Manager allows website owners to '

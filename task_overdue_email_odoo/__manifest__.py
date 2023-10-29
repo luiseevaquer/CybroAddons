@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "Task Overdue Email Notification",
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'category': 'Services/Project',
     'summary': 'Send Email to Assigned for Overdue Task',
     'description': 'This app is used for Overdue task notifications by email. suggests that the app is designed to send notifications via email for tasks that are overdue',

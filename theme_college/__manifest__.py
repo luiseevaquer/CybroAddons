@@ -21,7 +21,7 @@
 #############################################################################
 {
     "name": "Theme College",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "category": "Theme/Education",
     "summary": "Theme College is a new kind of Theme. The theme is a very "
                "user-friendly and is suitable for your"

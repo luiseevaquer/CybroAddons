@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "One2many Search Widget",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     'summary': "Quick Search Feature For One2many Fields In Odoo",
     'description': 'One2Many Search Widget Helps the User to Search for a Word or Number. The One2many Rows Satisfying the '
                'Search will be Displayed and the Others get Hided.',

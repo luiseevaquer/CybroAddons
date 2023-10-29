@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Theme Diva',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Theme/Corporate',
     'summary': 'Design Web Pages with Theme Diva.'
                'The theme is very user-friendly and is suitable for your '

@@ -23,7 +23,7 @@
 
 {
     'name': 'Employee Dynamic Fields',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Ability To Add Custom Fields in Employee From User Level""",
     'description': """Ability To Add Custom Fields in Employee From User Level,Employee Custom Fields,
                       Employee Dynamic Fields, odoo13, Dynamic Employee Fields, Dynamic Fields, Create Dynamic Fields, Community odoo Studio""",

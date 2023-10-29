@@ -22,7 +22,7 @@
 
 {
     'name': 'Multiple Warehouses in Sale Order Lines',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': 'Set warehouses per sale order lines.',
     'description': """This module will help to set warehouses per sale order 

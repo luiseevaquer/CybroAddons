@@ -20,7 +20,7 @@
 ##################################################################################
 {
     'name': 'Voice Chat In Odoo',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Discuss',
     'summary': 'Voice Message in Odoo Discuss',
     'description': 'Record voice note in odoo,Voice Chat In Odoo,Voice Chat,Voice Odoo,Voice Message Odoo,Voice Message in Odoo,Audio Message In Odoo,Audio in Odoo,Voice note',

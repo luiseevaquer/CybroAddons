@@ -21,7 +21,7 @@
 
 {
     'name': 'Purchase All In One Report Generator',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': "Dynamic Purchase Report Maker",
     'description': "Dynamic Purchase Report Maker",
     'category': 'Purchase',

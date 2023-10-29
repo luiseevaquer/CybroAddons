@@ -21,7 +21,7 @@
 
 {
     'name': 'Ecommerce Barcode Search',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': 'Ecommerce Barcode Search',
     'description': 'Product search in website using Barcode odoo 16',

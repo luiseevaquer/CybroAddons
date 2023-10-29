@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Product Management V16',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Product Management Dashboard',
     'description': 'Product Management Dashboard',
     'category': 'Extra Tools',

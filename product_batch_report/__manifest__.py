@@ -21,7 +21,7 @@
 ########################################################################################
 {
     'name': 'Lot and Serial Number Expiry Report',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Generates a detailed Lot and Serial Number Expiry based on their expiry details.',
     'description': """ This module helps you to print a report about tracking products 
     (lot/serial) based on their expiry date. You can filter your report based on different 

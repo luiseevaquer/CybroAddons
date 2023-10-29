@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': "Direct Send Email",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Send an email directly to the Customer/Vendor.""",
     "category": "Sales/Sales",
     'description': """The Direct Send Email module helps you to send the

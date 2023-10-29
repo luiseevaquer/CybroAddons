@@ -2,7 +2,7 @@
 
 #### 01.10.2022
 
-#### Version 16.0.1.0.0
+#### Version 17.0.1.0.0
 
 ##### Initial Commit for odoo_dynamic_dashboard
 

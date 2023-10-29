@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Refer and Earn',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': """ Refer your friend by using referral code and have points 
                while they log in with that referral code. According to the 

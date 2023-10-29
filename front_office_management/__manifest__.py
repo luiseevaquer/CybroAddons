@@ -22,7 +22,7 @@
 
 {
     'name': "Front Office Management",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """Manage Front Office Operations:Visitors, Devices Carrying Register, Actions""",
     'description': """Helps You To Manage Front Office Operations, Odoo 16""",
     'author': "Cybrosys Techno Solutions",

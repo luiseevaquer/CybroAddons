@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Product Brand in Purchase',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Purchases',
     'summary': 'Product Brand in Purchase',
     'description': 'Product Brand in Purchase, purchase, brand, odoo13',

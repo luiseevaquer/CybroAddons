@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Inventory Turnover Analysis Report',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """A module for generate inventory turnover analysis 
                  report.""",
     'description': """This will helps you to generate inventory turnover 

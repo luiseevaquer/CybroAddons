@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Total Items and Total Quantity in POS',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': "To Show the Total Quantity and Total Items Ordered in POS",
     'description': "This app will shows the number of "

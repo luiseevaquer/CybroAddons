@@ -20,7 +20,7 @@
 #############################################################################
 {
     'name': 'Payable And Receivable Amount',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'category': 'Accounting',
     'summary': """Amount Payable & Receivable In Partner Form""",
     'description': """Amount Payable & Receivable In Partner Form""",

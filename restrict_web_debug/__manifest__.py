@@ -23,7 +23,7 @@
 
 {
     'name': 'Userwise Developer Mode Restriction',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Userwise Developer Mode Restriction',
     "description": "Restric Developer Mode for Specific Users, Disable Developer Mode,Restrict Debug mode User wise,Developer mode restriction userwise",

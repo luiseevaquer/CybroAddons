@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Excel Report Designer',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': 'Minimum Purchase Limit In Website',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website',
     'summary': 'Its help to set minimum purchase limit to the website.',
     'description': 'The user can only purchase above the minimum amount set '

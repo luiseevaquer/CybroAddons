@@ -34,7 +34,7 @@
                ' POS receipts. This improves the overall receipt layout  '
                'simplifies the customers purchasing experience',
     'category': 'Point of Sale',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

@@ -22,7 +22,7 @@
 {
     'name': 'Pos Custom Tips',
     'depends': ['base', 'point_of_sale', 'pos_sale', ],
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """To apply a fixed percentage of Tip""",
     'description': """To apply a fixed percentage of tip to orders.
     we set a tip percentage it will be applied to the orders""",

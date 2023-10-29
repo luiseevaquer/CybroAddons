@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Theme Zen',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Design Web Pages with theme zen',
     'description': """Design web pages with the Theme Zen by embracing minimalism, 
                       balancing typography and visuals, and optimizing responsiveness 

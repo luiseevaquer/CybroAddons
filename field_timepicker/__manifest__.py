@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': 'Field Time Picker',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Time Picker Widget Using Wickedpicker',
     'description': 'Field Time Picker enhances the time input functionality in '
                    'Odoo',

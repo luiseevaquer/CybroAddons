@@ -20,7 +20,7 @@
 
 {
     'name': 'Out Of Stock Products Restriction On Sales',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Out Of Stock Products Restriction On Sales',
     'description': """Out Of Stock Products Restriction On Sales""",
     'category': 'Sales/Sales',

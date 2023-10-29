@@ -21,7 +21,7 @@
 ###############################################################################
 {
     'name': "PoS Analytic Tag",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'summary': 'To manage analytic tags in POS',
     'description': "This module assists in managing analytic tags in the "

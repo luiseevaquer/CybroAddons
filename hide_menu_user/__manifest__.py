@@ -22,7 +22,7 @@
 
 {
     'name': 'Hide Any Menu User Wise',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Hide Any Menu Item User Wise',
     'description': 'Hide Any Menu Item User Wise, Hide Menu Items, Hide Menu',
     'category': 'Extra Tools',

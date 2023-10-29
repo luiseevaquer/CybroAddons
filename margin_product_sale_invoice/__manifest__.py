@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Margin on Products, Sales & Invoices',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Providing margin on products, sales and invoices',
     'sequence': 4,
     'description': """This module is developed to help to provide the 

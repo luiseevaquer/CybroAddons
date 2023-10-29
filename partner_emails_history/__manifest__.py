@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': "Partner Email and SMS History",
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': """ Send/Received Emails and SMS History From Partner Form""",
     'description': """Send/Received Emails and SMS History From Partner Form""",
     'author': 'Cybrosys Techno Solutions',

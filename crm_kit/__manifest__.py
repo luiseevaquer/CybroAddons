@@ -24,7 +24,7 @@
     'description': """Complete CRM Kit for odoo15, CRM, CRM dashboard, crm commission, commission plan, crm features""",
     'summary': """Complete CRM Kit for odoo15""",
     "category": 'Sales',
-    "version": '16.0.1.0.0',
+    "version": '17.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',

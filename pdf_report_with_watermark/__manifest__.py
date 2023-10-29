@@ -21,7 +21,7 @@
 #############################################################################
 {
     'name': 'Reports With Watermark',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """PDF reports with watermark""",
     'description': """Can have PDF report with watermark """,
