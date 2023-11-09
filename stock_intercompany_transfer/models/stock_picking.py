@@ -86,7 +86,7 @@ class StockPickingInherit(models.Model):
 
                 for move in self.move_ids:
                     lines = self.move_line_ids.filtered(lambda x: x.product_id == move.product_id)
-                    done_qty = sum(lines.mapped('qty_done'))
+                    done_qty = sum(lines.mapped('quantity'))
                     if not done_qty:
                         done_qty = sum(lines.mapped('product_uom_qty'))
                     move_vals = {
