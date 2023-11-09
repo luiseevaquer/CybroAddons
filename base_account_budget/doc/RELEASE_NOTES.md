@@ -1,7 +1,7 @@
-## Module <kit_account_budget>
+## Module <base_account_budget>
 
-#### 06.10.2021
+#### 07.11.2023
 #### Version 17.0.1.0.0
 #### ADD
-- Initial commit for base_account_budget
+- Initial commit for Budget Management
 

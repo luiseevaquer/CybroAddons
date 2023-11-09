@@ -3,7 +3,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -135,18 +135,18 @@ class ReportAgedPartnerBalance(models.AbstractModel):
             partner_id = line.partner_id.id or False
             if partner_id not in undue_amounts:
                 undue_amounts[partner_id] = 0.0
-            line_amount = ResCurrency._compute(line.company_id.currency_id,
+            line_amount = ResCurrency._get_conversion_rate(line.company_id.currency_id,
                                                user_currency, line.balance)
             if user_currency.is_zero(line_amount):
                 continue
             for partial_line in line.matched_debit_ids:
                 if partial_line.max_date <= date_from:
-                    line_amount += ResCurrency._compute(
+                    line_amount += ResCurrency._get_conversion_rate(
                         partial_line.company_id.currency_id, user_currency,
                         partial_line.amount)
             for partial_line in line.matched_credit_ids:
                 if partial_line.max_date <= date_from:
-                    line_amount -= ResCurrency._compute(
+                    line_amount -= ResCurrency._get_conversion_rate(
                         partial_line.company_id.currency_id, user_currency,
                         partial_line.amount)
             if not self.env.company.currency_id.is_zero(line_amount):
@@ -156,7 +156,6 @@ class ReportAgedPartnerBalance(models.AbstractModel):
                     'amount': line_amount,
                     'period': 6,
                 })
-
         # Use one query per period and store results in history (a list variable)
         # Each history will contain: history[1] = {'<partner_id>': <partner_debit-credit>}
         history = []
@@ -176,7 +175,6 @@ class ReportAgedPartnerBalance(models.AbstractModel):
                 dates_query += ' <= %s)'
                 args_list += (periods[str(i)]['stop'],)
             args_list += (date_from, tuple(company_ids))
-
             query = '''SELECT l.id
                     FROM account_move_line AS l, account_account, account_move am
                     WHERE (l.account_id = account_account.id) AND (l.move_id = am.id)
@@ -194,18 +192,18 @@ class ReportAgedPartnerBalance(models.AbstractModel):
                 partner_id = line.partner_id.id or False
                 if partner_id not in partners_amount:
                     partners_amount[partner_id] = 0.0
-                line_amount = ResCurrency._compute(line.company_id.currency_id,
+                line_amount = ResCurrency._get_conversion_rate(line.company_id.currency_id,
                                                    user_currency, line.balance)
                 if user_currency.is_zero(line_amount):
                     continue
                 for partial_line in line.matched_debit_ids:
                     if partial_line.max_date <= date_from:
-                        line_amount += ResCurrency._compute(
+                        line_amount += ResCurrency._get_conversion_rate(
                             partial_line.company_id.currency_id, user_currency,
                             partial_line.amount)
                 for partial_line in line.matched_credit_ids:
                     if partial_line.max_date <= date_from:
-                        line_amount -= ResCurrency._compute(
+                        line_amount -= ResCurrency._get_conversion_rate(
                             partial_line.company_id.currency_id, user_currency,
                             partial_line.amount)
 
@@ -218,7 +216,6 @@ class ReportAgedPartnerBalance(models.AbstractModel):
                         'period': i + 1,
                     })
             history.append(partners_amount)
-
         for partner in partners:
             if partner['partner_id'] is None:
                 partner['partner_id'] = False
@@ -265,7 +262,6 @@ class ReportAgedPartnerBalance(models.AbstractModel):
                     self._context.get('include_nullified_amount') and lines[
                 partner['partner_id']]):
                 res.append(values)
-
         return res, total, lines
 
     @api.model
@@ -292,8 +288,7 @@ class ReportAgedPartnerBalance(models.AbstractModel):
         movelines, total, dummy = self._get_partner_move_lines(account_type,
                                                                date_from,
                                                                target_move,
-                                                               data['form'][
-                                                                   'period_length'])
+                                                               data['form']['period_length'])
         return {
             'doc_ids': self.ids,
             'doc_model': model,

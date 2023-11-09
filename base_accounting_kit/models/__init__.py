@@ -4,7 +4,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -29,10 +29,8 @@ from . import credit_limit
 from . import product_template
 from . import res_config_settings
 from . import res_partner
-from . import account_dashboard
 from . import multiple_invoice
 from . import multiple_invoice_layout
-
 from . import recurring_payments
 from . import account_payment
 from . import res_company

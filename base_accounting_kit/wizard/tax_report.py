@@ -3,7 +3,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -19,16 +19,28 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 #############################################################################
-
 from odoo import models,fields
 from odoo.tools.misc import get_lang
+
 
 class AccountTaxReport(models.TransientModel):
     _inherit = "account.report"
     _name = 'kit.account.tax.report'
     _description = 'Tax Report'
+
+    section_main_report_ids = fields.Many2many(string="Section Of",
+                                               comodel_name='account.report',
+                                               relation="account_tax_report_section_rel",
+                                               column1="sub_report_id",
+                                               column2="main_report_id")
+    section_report_ids = fields.Many2many(string="Sections",
+                                          comodel_name='account.report',
+                                          relation="account_tax_report_section_rel",
+                                          column1="main_report_id",
+                                          column2="sub_report_id")
     company_id = fields.Many2one('res.company', string='Company', required=True, readonly=True, default=lambda self: self.env.company)
-    name = fields.Char(string="Tax Report", default = "Tax Report" ,required=True, translate=True)
+    name = fields.Char(string="Tax Report", default="Tax Report",
+                       required=True, translate=True)
     date_from = fields.Date(string='Start Date')
     date_to = fields.Date(string='End Date')
     journal_ids = fields.Many2many(

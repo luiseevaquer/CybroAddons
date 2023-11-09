@@ -3,7 +3,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2019-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -20,24 +20,24 @@
 #
 #############################################################################
 from datetime import datetime, date
-
 from dateutil.relativedelta import relativedelta
-
-from odoo import models, fields, api, _
-from odoo.exceptions import UserError
+from odoo import api, models, fields
 
 
 class FilterRecurringEntries(models.Model):
     _inherit = 'account.move'
-
-    recurring_ref = fields.Char()
+    """Inherits the account.move model for adding the recurring 
+    reference field"""
+    recurring_ref = fields.Char(string='Recurring Ref')
 
 
 class RecurringPayments(models.Model):
+    """Created the module for recurring payments"""
     _name = 'account.recurring.payments'
     _description = 'Accounting Recurring Payment'
 
     def _get_next_schedule(self):
+        """Function for adding the schedule process"""
         if self.date:
             recurr_dates = []
             today = datetime.today()
@@ -54,7 +54,7 @@ class RecurringPayments(models.Model):
                     start_date += relativedelta(years=self.recurring_interval)
             self.next_date = start_date.date()
 
-    name = fields.Char('Name')
+    name = fields.Char(string='Name')
     debit_account = fields.Many2one('account.account', 'Debit Account',
                                     required=True,
                                     domain="['|', ('company_id', '=', False), "
@@ -94,6 +94,7 @@ class RecurringPayments(models.Model):
 
     @api.onchange('partner_id')
     def onchange_partner_id(self):
+        """Onchange partner field for updating the credit account value"""
         if self.partner_id.property_account_receivable_id:
             self.credit_account = self.partner_id.property_account_payable_id
 

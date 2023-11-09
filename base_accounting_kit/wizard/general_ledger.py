@@ -3,7 +3,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -29,6 +29,16 @@ class AccountReportGeneralLedger(models.TransientModel):
     _name = "account.report.general.ledger"
     _description = "General Ledger Report"
 
+    section_main_report_ids = fields.Many2many(string="Section Of",
+                                               comodel_name='account.report',
+                                               relation="account_report_general_section_rel",
+                                               column1="sub_report_id",
+                                               column2="main_report_id")
+    section_report_ids = fields.Many2many(string="Sections",
+                                          comodel_name='account.report',
+                                          relation="account_report_general_section_rel",
+                                          column1="main_report_id",
+                                          column2="sub_report_id")
     name = fields.Char(string="General Ledger", default="General Ledger", required=True, translate=True)
     initial_balance = fields.Boolean(string='Include Initial Balances',
                                      help='If you selected date, this field '

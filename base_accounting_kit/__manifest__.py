@@ -3,7 +3,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -19,48 +19,31 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 #############################################################################
-
 {
-    'name': 'Odoo 16 Full Accounting Kit',
-    'version': '17.0.2.0.9',
+    'name': 'Odoo 17 Full Accounting Kit',
+    'version': '17.0.1.0.0',
     'category': 'Accounting',
-    'live_test_url': 'https://www.youtube.com/watch?v=peAp2Tx_XIs',
-    'summary': """ Asset and Budget Management,
-                 Accounting Reports, PDC, Lock dates,
-                 Credit Limit, Follow Ups,
-                 Day-Bank-Cash book reports.""",
-    'description': """
-                    odoo16, Odoo16, 16,AccountingKit, Fullaccounting, Odoo accounting, Odooaccounting, all in one accounting,
-                    allinoneaccounting, accounting,
-                    Odoo 16 Accounting,Accounting Reports, Odoo 16 Accounting
-                    PDF Reports, Asset Management, Budget Management,
-                    Customer Credit Limit, Recurring Payment,
-                    PDC Management, Customer Follow-up,
-                    Lock Dates into Odoo 16 Community Edition,
-                    Odoo Accounting,Odoo 16 Accounting Reports,Odoo 16,,
-                    Full Accounting, Complete Accounting,
-                    Odoo Community Accounting, Accounting for odoo 16,
-                    Full Accounting Package,
-                    Financial Reports, Financial Report for Odoo 16,
-                    Reconciliation Widget,
-                    Reconciliation Widget For Odoo16,
-                    Payments Matching
-                    """,
-    'author': 'Cybrosys Techno Solutions, Odoo SA',
-    'website': "https://www.cybrosys.com",
+    'summary': """ Asset and Budget Management,Accounting Reports, PDC, 
+    Lock dates, Credit Limit, Follow Ups, Day-Bank-Cash book reports.""",
+    'description': """ The module used to manage the Full Account Features.
+    that can manage the Account Reports,Journals Asset and Budget Management, 
+    Accounting Reports, PDC, Lock dates, Credit Limit, Follow Ups, 
+    Day-Bank-Cash book reports.""",
+    'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',
-    'depends': ['base', 'account', 'sale', 'account_check_printing', 'base_account_budget','analytic'],
+    'website': "https://www.cybrosys.com",
+    'depends': ['account', 'sale', 'account_check_printing',
+                'base_account_budget', 'analytic'],
     'data': [
-        'security/ir.model.access.csv',
         'security/security.xml',
+        'security/ir.model.access.csv',
         'data/account_financial_report_data.xml',
         'data/cash_flow_data.xml',
         'data/followup_levels.xml',
         'data/multiple_invoice_data.xml',
         'data/recurring_entry_cron.xml',
-        'views/assets.xml',
-        'views/dashboard_views.xml',
+        'data/account_pdc_data.xml',
         'views/reports_config_view.xml',
         'views/accounting_menu.xml',
         'views/account_group.xml',
@@ -73,7 +56,6 @@
         'wizard/asset_modify_views.xml',
         'views/account_asset_views.xml',
         'views/account_move_views.xml',
-        'views/account_asset_templates.xml',
         'views/product_template_views.xml',
         'views/multiple_invoice_layout_view.xml',
         'views/multiple_invoice_form.xml',
@@ -106,26 +88,11 @@
         'views/recurring_payments_view.xml',
         'wizard/account_lock_date.xml',
         'views/account_payment_view.xml',
-        'data/account_pdc_data.xml'
     ],
-    'assets': {
-        'web.assets_backend': [
-            'base_accounting_kit/static/src/scss/style.scss',
-            'base_accounting_kit/static/src/scss/account_asset.scss',
-            'base_accounting_kit/static/lib/bootstrap-toggle-master/css/bootstrap-toggle.min.css',
-            'base_accounting_kit/static/src/js/account_dashboard.js',
-            'base_accounting_kit/static/src/js/account_asset.js',
-            'base_accounting_kit/static/lib/Chart.bundle.js',
-            'base_accounting_kit/static/lib/Chart.bundle.min.js',
-            'base_accounting_kit/static/lib/Chart.min.js',
-            'base_accounting_kit/static/lib/Chart.js',
-            'base_accounting_kit/static/lib/bootstrap-toggle-master/js/bootstrap-toggle.min.js',
-            'base_accounting_kit/static/src/xml/template.xml',
-        ],
-    },
     'license': 'LGPL-3',
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.jpg'],
     'installable': True,
     'auto_install': False,
     'application': True,
 }
+

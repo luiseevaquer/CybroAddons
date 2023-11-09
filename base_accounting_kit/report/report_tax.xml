@@ -51,8 +51,8 @@
                             <td>
                                 <strong>Purchase</strong>
                             </td>
-                            <td></td>
-                            <td></td>
+                            <td/>
+                            <td/>
                         </tr>
                         <tr align="left" t-foreach="lines['purchase']" t-as="line">
                             <td>

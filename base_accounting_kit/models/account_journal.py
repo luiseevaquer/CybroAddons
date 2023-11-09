@@ -3,7 +3,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -19,11 +19,12 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 #############################################################################
-
 from odoo import models, _
 
 
 class AccountJournal(models.Model):
+    """Module inherited for adding the reconcile method in the account
+    journal"""
     _inherit = "account.journal"
 
     # def action_open_reconcile(self):
@@ -50,8 +51,11 @@ class AccountJournal(models.Model):
     #             'context': action_context,
     #         }
     def action_open_reconcile(self):
+        """Function to open reconciliation view for bank statements
+        belonging to this journal"""
         if self.type in ['bank', 'cash']:
-            # Open reconciliation view for bank statements belonging to this journal
+            # Open reconciliation view for bank statements belonging
+            # to this journal
             bank_stmt = self.env['account.bank.statement'].search(
                 [('journal_id', 'in', self.ids)]).mapped('line_ids')
             return {

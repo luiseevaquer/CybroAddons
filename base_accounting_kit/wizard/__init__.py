@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
-# -*- coding: utf-8 -*-
 #############################################################################
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -34,5 +33,4 @@ from . import journal_audit
 from . import partner_ledger
 from . import tax_report
 from . import trial_balance
-
 from . import account_lock_date

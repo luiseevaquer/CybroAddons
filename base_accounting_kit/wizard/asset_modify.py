@@ -3,7 +3,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -23,18 +23,16 @@
 from lxml import etree
 
 from odoo import api, fields, models, _
-from odoo.addons.base.models.ir_ui_view import (
-transfer_field_to_modifiers, transfer_node_to_modifiers, transfer_modifiers_to_node,
-)
+# from odoo.addons.base.models.ir_ui_view import (transfer_field_to_modifiers, transfer_node_to_modifiers, transfer_modifiers_to_node)
 
 
-def setup_modifiers(node, field=None, context=None, in_tree_view=False):
-    modifiers = {}
-    if field is not None:
-        transfer_field_to_modifiers(field, modifiers)
-    transfer_node_to_modifiers(
-        node, modifiers, context=context)
-    transfer_modifiers_to_node(modifiers, node)
+# def setup_modifiers(node, field=None, context=None, in_tree_view=False):
+#     modifiers = {}
+#     if field is not None:
+#         transfer_field_to_modifiers(field, modifiers)
+#     transfer_node_to_modifiers(
+#         node, modifiers, context=context)
+#     transfer_modifiers_to_node(modifiers, node)
 
 
 class AssetModify(models.TransientModel):
@@ -63,11 +61,11 @@ class AssetModify(models.TransientModel):
             if asset.method_time == 'number' and doc.xpath("//field[@name='method_end']"):
                 node = doc.xpath("//field[@name='method_end']")[0]
                 node.set('invisible', '1')
-                setup_modifiers(node, result['fields']['method_end'])
+                # setup_modifiers(node, result['fields']['method_end'])
             elif asset.method_time == 'end' and doc.xpath("//field[@name='method_number']"):
                 node = doc.xpath("//field[@name='method_number']")[0]
                 node.set('invisible', '1')
-                setup_modifiers(node, result['fields']['method_number'])
+                # setup_modifiers(node, result['fields']['method_number'])
             result['arch'] = etree.tostring(doc, encoding='unicode')
         return result
 

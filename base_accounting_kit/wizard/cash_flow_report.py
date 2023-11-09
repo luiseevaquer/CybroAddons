@@ -3,7 +3,7 @@
 #
 #    Cybrosys Technologies Pvt. Ltd.
 #
-#    Copyright (C) 2022-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
+#    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
 #    Author: Cybrosys Techno Solutions(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU LESSER
@@ -19,9 +19,7 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 #############################################################################
-
 from odoo import api, fields, models
-from odoo.tools.misc import get_lang
 
 
 class AccountingReport(models.TransientModel):
@@ -29,6 +27,16 @@ class AccountingReport(models.TransientModel):
     _inherit = "account.report"
     _description = "Cash Flow Report"
 
+    section_main_report_ids = fields.Many2many(string="Section Of",
+                                               comodel_name='account.report',
+                                               relation="account_cash_flow_report_section_rel",
+                                               column1="sub_report_id",
+                                               column2="main_report_id")
+    section_report_ids = fields.Many2many(string="Sections",
+                                          comodel_name='account.report',
+                                          relation="account_cash_flow_report_section_rel",
+                                          column1="main_report_id",
+                                          column2="sub_report_id")
     name = fields.Char(string="Cash Flow Report", default="Cash Flow Report", required=True, translate=True)
     date_from = fields.Date(string='Start Date')
     date_to = fields.Date(string='End Date')

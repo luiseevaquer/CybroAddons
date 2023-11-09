@@ -19,12 +19,12 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 #############################################################################
-
 from odoo import api, fields, models, _
 from odoo.exceptions import ValidationError
 
 
 class AccountBudgetPost(models.Model):
+    """Model used to create the Budgetary Position for the account"""
     _name = "account.budget.post"
     _order = "name"
     _description = "Budgetary Position"

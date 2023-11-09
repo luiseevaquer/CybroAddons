@@ -16,19 +16,16 @@
                         <field name="sign"/>
                         <field name="style_overwrite"/>
                     </group>
-                    <notebook
-                            attrs="{'invisible': [('type','not in',['accounts','account_type', 'account_report'])]}">
+                    <notebook invisible="type not in ['accounts','account_type', 'account_report']">
                         <page string="Report">
                             <group>
                                 <field name="display_detail"
-                                       attrs="{'invisible': [('type','not in',['accounts','account_type'])]}"/>
+                                       invisible="type not in ['accounts','account_type']"/>
                                 <field name="account_report_id"
-                                       attrs="{'invisible': [('type', '!=', 'account_report')]}"/>
+                                       invisible="type not in ['accounts','account_report']"/>
                             </group>
-                            <field name="account_ids"
-                                   attrs="{'invisible': [('type', '!=', 'accounts')]}"/>
-                            <field name="account_type_ids"
-                                   attrs="{'invisible': [('type', '!=', 'account_type')]}"/>
+                            <field name="account_ids" invisible="type != 'accounts'"/>
+                            <field name="account_type_ids" invisible="type != 'account_type'"/>
                         </page>
                     </notebook>
                 </form>
