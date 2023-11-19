@@ -1,16 +1,23 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
-    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+.. image:: https://img.shields.io/badge/license-AGPL--3-blue.svg
+    :target: https://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 
 Product Barcode Generator
 =========================
-
 Generates EAN13 Standard Barcode for Product.
-Also, introduces a new feature to print product variant price and name on the product label.
+
+Features
+========
+* Automatically generates EAN13 standard barcode for each product while create it
 
 Configuration
 =============
-* No additional configurations needed
+Nothing to configure.
+
+License
+-------
+Affero General Public License, v3.0 (AGPL v3).
+(https://www.gnu.org/licenses/agpl-3.0-standalone.html)
 
 Company
 -------
@@ -18,11 +25,12 @@ Company
 
 Credits
 -------
-* Developer:	Sreejith P @ cybrosys, Contact: odoo@cybrosys.com
-		Niyas Raphy @cybrosys, Contact: odoo@cybrosys.com
-        Version 13: Nimisha Murali@cybrosys,Contact: odoo@cybrosys.com
-        Version 14: Naveen V @cybrosys, Contact: odoo@cybrosys.com
-        Version 15: Noorjahan N A @cybrosys, Contact: odoo@cybrosys.com
+* Developers: (V13) Nimisha
+              (V14) Naveen V
+              (V15) Noorjahan N A
+              (V16) Noorjahan N A
+              (V17) Farhana Jahan PT,
+  Contact: odoo@cybrosys.com
 
 Contacts
 --------
