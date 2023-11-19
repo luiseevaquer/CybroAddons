@@ -1,18 +1,23 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
-    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+.. image:: https://img.shields.io/badge/license-AGPL--3-blue.svg
+    :target: https://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 
-Barcode scanning in inventory
+Barcode scanning in Inventory
 =============================
 This module will used for barcode scanning in inventory.
 
-Depends
-=======
-[stock] addon Odoo
+Features
+========
+* Automatically generates EAN13 standard barcode for each product while create it
 
 Configuration
 =============
-* No additional configurations needed
+Nothing to configure.
+
+License
+-------
+Affero General Public License, v3.0 (AGPL v3).
+(https://www.gnu.org/licenses/agpl-3.0-standalone.html)
 
 Company
 -------
@@ -20,10 +25,10 @@ Company
 
 Credits
 -------
-* Developer: 	Niyas Raphy@cybrosys
-                Sreejith P @cybrosys
-                Version 13: Nimisha Murali@cybrosys
-                Version 16: Sahla Sherin@cybrosys
+* Developers: (V13)Nimisha Murali
+              (V16) Sahla Sherin
+              (V17) Farhana Jahan PT,
+  Contact: odoo@cybrosys.com
 
 Contacts
 --------
@@ -46,5 +51,3 @@ For support and more information, please visit `Our Website <https://cybrosys.co
 Further information
 ===================
 HTML Description: `<static/description/index.html>`__
-
-

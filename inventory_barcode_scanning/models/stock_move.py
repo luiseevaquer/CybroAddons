@@ -19,23 +19,25 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 ###############################################################################
-{
-    'name': 'Barcode scanning in Inventory',
-    'version': '17.0.1.0.0',
-    'category': 'Warehouse',
-    'summary': 'Barcode Support in Stock Picking.',
-    'description': """Increase Quantity of Product by entering Barcode.""",
-    'author': 'Cybrosys Techno Solutions',
-    'company': 'Cybrosys Techno Solutions',
-    'maintainer': 'Cybrosys Techno Solutions',
-    'website': 'https://www.cybrosys.com',
-    'depends': ['stock'],
-    'data': [
-        'views/stock_picking_views.xml'
-    ],
-    'images': ['static/description/banner.png'],
-    'license': 'AGPL-3',
-    'installable': True,
-    'application': False,
-    'auto_install': False,
-}
+from odoo import api, fields, models
+
+
+class StockPickingOperation(models.Model):
+    """Inherit stock_move to add barcode field"""
+    _inherit = 'stock.move'
+
+    barcode = fields.Char(string='Barcode', help="Barcode for Scanning Product")
+
+    @api.onchange('barcode')
+    def _onchange_barcode_scan(self):
+        """Function to add product in line when entering a Barcode."""
+        if self.barcode:
+            product = self.env['product.product'].search(
+                [('barcode', '=', self.barcode)])
+            self.product_id = product.id
+
+    @api.onchange('product_id')
+    def _onchange_product(self):
+        """Function to add barcode in line when choosing a Product."""
+        if self.product_id.barcode:
+            self.write({'barcode': self.product_id.barcode})
