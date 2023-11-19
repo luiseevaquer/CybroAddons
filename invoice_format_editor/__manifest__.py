@@ -4,7 +4,7 @@
 #    Cybrosys Technologies Pvt. Ltd.
 #
 #    Copyright (C) 2023-TODAY Cybrosys Technologies(<https://www.cybrosys.com>)
-#    Author: Jumana Jabin MK(<https://www.cybrosys.com>)
+#    Author: Ajith V(<https://www.cybrosys.com>)
 #
 #    You can modify it under the terms of the GNU AFFERO
 #    GENERAL PUBLIC LICENSE (AGPL v3), Version 3.
@@ -21,19 +21,20 @@
 #############################################################################
 {
     'name': 'Invoice Format Editor',
-    'version': '17.0.2.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Accounting',
     'summary': 'Invoice Format Editor',
-    'description': """Invoice Format Editor For Configuring the Invoice 
-                    Templates""",
+    'description': """Invoice Format Editor For Configuring the Invoice Templates""",
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'maintainer': 'Cybrosys Techno Solutions',
-    'images': ['static/description/banner.png'],
     'website': 'https://www.cybrosys.com',
-    'depends': ['base', 'account', 'web', 'sale_management'],
+    'depends': ['account', 'web', 'sale_management'],
     'data': ['security/ir.model.access.csv',
              'data/design_templates.xml',
+             'data/normal_preview_templates.xml',
+             'data/modern_preview_templates.xml',
+             'data/old_standard_preview_templates.xml',
              'views/doc_layout_views.xml',
              'views/base_document_layout_views.xml',
              'views/custom_external_layout_templates.xml',
@@ -42,13 +43,10 @@
              'reports/old_standard_invoice_templates.xml',
              'reports/report_invoice_templates.xml',
              'reports/preview_layout_report_templates.xml',
-             'preview_templates/normal_preview_templates.xml',
-             'preview_templates/modern_preview_templates.xml',
-             'preview_templates/old_standard_preview_templates.xml',
              ],
+    'images': ['static/description/banner.png'],
     'license': 'AGPL-3',
     'installable': True,
     'auto_install': False,
     'application': False,
-
 }

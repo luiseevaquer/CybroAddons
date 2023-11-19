@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <template id="preview_layout_report" inherit_id="web.preview_layout_report" name="Invoice report preview">
-        <xpath expr="//t[@t-call='web.report_invoice_wizard_preview']" position="replace">
+    <template id="preview_layout_report" inherit_id="web.preview_layout_report"
+              name="Invoice report preview">
+        <xpath expr="//t[@t-call='web.report_invoice_wizard_preview']"
+               position="replace">
             <t t-set="o" t-value="res_company"/>
             <t t-if="o.base_layout == 'normal'">
                 <t t-call="invoice_format_editor.report_preview_normal"/>
