@@ -19,6 +19,4 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 ###############################################################################
-from . import product_category
-from . import res_partner
-from . import stock_warehouse
+from . import stock_report

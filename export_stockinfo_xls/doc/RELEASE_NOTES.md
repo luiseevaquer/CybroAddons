@@ -1,11 +1,5 @@
 ## Module <export_stockinfo_xls>
-
-#### 04.10.2021
+#### 13.11.2023
 #### Version 17.0.1.0.0
-#### ADD
-Initial Commit  Export Product Stock in Excel
-
-
-
-
-
+##### ADD
+- Initial commit for Export Product Stock in Excel
