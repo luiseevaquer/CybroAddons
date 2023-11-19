@@ -19,26 +19,22 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 #############################################################################
-{
-    'name': 'Send Whatsapp Message',
-    'version': '17.0.1.0.0',
-    'category': 'Extra Tools',
-    'summary': 'Send Message to partner via Whatsapp web',
-    'description': 'This module helps you to directly send messages to your '
-                   'contacts through WhatsApp web.',
-    'author': 'Cybrosys Techno solutions',
-    'maintainer': 'Cybrosys Techno Solutions',
-    'company': 'Cybrosys Techno Solutions',
-    'website': 'https://www.cybrosys.com',
-    'depends': ['base', 'contacts'],
-    'data': [
-        'security/ir.model.access.csv',
-        'views/res_partner_views.xml',
-        'wizard/whatsapp_send_message_views.xml',
-    ],
-    'images': ['static/description/banner.jpg'],
-    'license': 'AGPL-3',
-    'installable': True,
-    'auto_install': False,
-    'application': False,
-}
+from odoo import models, _
+
+
+class ResPartner(models.Model):
+    """Extends the res_partner model to add a new action for sending WhatsApp
+    messages."""
+    _inherit = 'res.partner'
+
+    def action_send_msg(self):
+        """This function is called when the user clicks the
+         'Send WhatsApp Message' button on a partner's form view. It opens a
+          new wizard to compose and send a WhatsApp message."""
+        return {'type': 'ir.actions.act_window',
+                'name': _('Whatsapp Message'),
+                'res_model': 'whatsapp.send.message',
+                'target': 'new',
+                'view_mode': 'form',
+                'view_type': 'form',
+                'context': {'default_user_id': self.id}, }
