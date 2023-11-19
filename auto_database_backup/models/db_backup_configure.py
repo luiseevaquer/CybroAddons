@@ -105,7 +105,8 @@ class DbBackupConfigure(models.Model):
         string='Dropbox Token Generated',
         compute='_compute_is_dropbox_token_generated',
         copy=False, help='Is the dropbox token generated or not?')
-    dropbox_folder = fields.Char(string='Dropbox Folder', help='Dropbox folder')
+    dropbox_folder = fields.Char(string='Dropbox Folder',
+                                 help='Dropbox folder')
     active = fields.Boolean(default=False, string='Active',
                             help='Activate the Scheduled Action or not')
     hide_active = fields.Boolean(string="Hide Active",
@@ -158,7 +159,8 @@ class DbBackupConfigure(models.Model):
         string='Google drive Token Generated',
         compute='_compute_is_google_drive_token_generated', copy=False,
         help='Google drive token generated or not')
-    gdrive_client_key = fields.Char(string='Google Drive Client ID', copy=False,
+    gdrive_client_key = fields.Char(string='Google Drive Client ID',
+                                    copy=False,
                                     help='Client id of the google drive')
     gdrive_client_secret = fields.Char(string='Google Drive Client Secret',
                                        copy=False,
@@ -294,6 +296,7 @@ class DbBackupConfigure(models.Model):
                     }
                 }
 
+    @api.depends('onedrive_redirect_uri', 'gdrive_redirect_uri')
     def _compute_redirect_uri(self):
         """Compute the redirect URI for onedrive and Google Drive"""
         for rec in self:
@@ -763,6 +766,7 @@ class DbBackupConfigure(models.Model):
                             mail_template_success.send_mail(rec.id,
                                                             force_send=True)
                     except Exception as e:
+
                         rec.generated_exception = e
                         _logger.info('Google Drive Exception: %s', e)
                         if rec.notify_user:

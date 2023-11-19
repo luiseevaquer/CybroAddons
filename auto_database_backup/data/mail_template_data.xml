@@ -107,7 +107,6 @@
                 </div>
             </field>
         </record>
-
 <!--            Database backup operation failed email templated-->
         <record id="mail_template_data_db_backup_failed" model="mail.template">
             <field name="name">Database Backup: Notification Failed</field>
